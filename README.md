@@ -1,2 +1,2 @@
-# Perpustakaan-Poltekkes-Ternate
+# Repository-PoltekkesTernate
 publish scientific journals
